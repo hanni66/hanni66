@@ -3,9 +3,6 @@
 ### 🙌 Welcome to my Blog
 > [HaEun's Blog](https://velog.io/@hanni66)
 
-<!-- ### 📋 Resume 이력서 
-> [Mojito's Resume](https://profuse-door-fd0.notion.site/iOS-60f151bd94d64f84a67502c198a11235) -->
-
 Hi, i'm Haeun, a passionate self-taught iOS developer from Korea.
 - 🔭 i'm currently working on my project [<b>Morize</b>](https://github.com/MorizeiOS/Morize)
 - 🌱 i'm currently learning Swift & Design pattern
@@ -29,4 +26,8 @@ Hi, i'm Haeun, a passionate self-taught iOS developer from Korea.
 <img height="150" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haeunkim0807">
 
 <!-- ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=haeunkim0807) -->
+
+<!-- ### 📋 Resume 이력서 
+> [Mojito's Resume](https://profuse-door-fd0.notion.site/iOS-60f151bd94d64f84a67502c198a11235) -->
+
 </div>
