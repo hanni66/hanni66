@@ -21,10 +21,12 @@ Hi, i'm Haeun, a passionate self-taught iOS developer from Korea.
 
 ### 📊 Stats
 <div>
-<!-- <img width="380" src="http://github-readme-streak-stats.herokuapp.com?user=hanni66&theme=tokyonight&date_format=%5BY%20%5DM%20j"> -->
+
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=hanni66&show_icons=true&theme=tokyonight">
 <img height="150" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haeunkim0807">
 </div>
+
+<!-- <img width="380" src="http://github-readme-streak-stats.herokuapp.com?user=hanni66&theme=tokyonight&date_format=%5BY%20%5DM%20j"> -->
 
 <!-- ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=haeunkim0807) -->
 
