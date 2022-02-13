@@ -27,9 +27,7 @@ Hi, i'm Haeun, a passionate self-taught iOS developer from Korea.
 </div>
 
 <!-- <img width="380" src="http://github-readme-streak-stats.herokuapp.com?user=hanni66&theme=tokyonight&date_format=%5BY%20%5DM%20j"> -->
-
 <!-- ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=haeunkim0807) -->
-
 <!-- ### 📋 Resume 이력서 
 > [Mojito's Resume](https://profuse-door-fd0.notion.site/iOS-60f151bd94d64f84a67502c198a11235) -->
 
