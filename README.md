@@ -20,7 +20,7 @@ Hi, i'm Haeun, a passionate self-taught iOS developer from Korea.
 
 ### 🛠 Languages and Tools
 <img src="https://img.shields.io/badge/Swift-FA7343?logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/UIkit-2396F3?logo=UIkit&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?logo=Flutter&logoColor=white"/>
 
 <!-- ### 👨‍👩‍👧‍👦 Contributed to 코드 도와준 것 
 > <img src="https://swift.org/assets/images/swift.svg" width="40" height="13"/> [The Swift Language Guide(한국어)](https://github.com/Jusung/the-swift-programming-language-kr) -->
