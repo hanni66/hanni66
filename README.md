@@ -1,5 +1,8 @@
 # 🙇 Hanni's Github
 
+### 😎 Contect
+haeunkim0807@gmail.com
+
 ### 🙌 Welcome to my Blog
 > [HaEun's Blog](https://velog.io/@hanni66)
 
@@ -31,4 +34,3 @@ Hi, i'm Haeun, a passionate self-taught iOS developer from Korea.
 
 <!-- <img width="380" src="http://github-readme-streak-stats.herokuapp.com?user=hanni66&theme=tokyonight&date_format=%5BY%20%5DM%20j"> -->
 <!-- ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=haeunkim0807) -->
-
