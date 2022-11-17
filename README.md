@@ -11,8 +11,8 @@ haeunkim0807@gmail.com
 
 Hi, i'm Haeun, a passionate self-taught iOS developer from Korea.
 - 🔭 i'm currently working on my project [<b>Weather-Alarm</b>](https://github.com/Weather-Alarm), [<b>MFD</b>](https://github.com/MFD-Magazine-For-Developers)
-- 🌱 i'm currently learning Swift & Design pattern
-- 🕵️ i'm interested in Combine & SwiftUI
+- 🌱 i'm currently learning Flutter & Dart
+- 🕵️ i'm interested in Mobile
 
 <!-- ### 👨🏻‍💻 Jobs
 > [Hada](https://www.hadainfo.com/) (2021.05 ~ ing)
