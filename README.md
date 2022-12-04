@@ -4,10 +4,10 @@
 haeunkim0807@gmail.com
 
 ### 🙌 Welcome to my Blog
-> [HaEun's Blog](https://velog.io/@hanni66)
+> [Hanni's Blog](https://velog.io/@hanni66)
 
-<!-- ### 📋 Resume 이력서 
-> [Hanni's Resume](https://profuse-door-fd0.notion.site/iOS-60f151bd94d64f84a67502c198a11235) -->
+### 📋 Resume
+> [Hanni's Resume](https://seed-earthquake-e17.notion.site/Haeun-s-Resume-a25546ebfee64cd09fd35f49d33f16b5)
 
 Hi, i'm Haeun, a passionate self-taught iOS developer from Korea.
 - 🔭 i'm currently working on my project [<b>Weather-Alarm</b>](https://github.com/Weather-Alarm), [<b>MFD</b>](https://github.com/MFD-Magazine-For-Developers)
