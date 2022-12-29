@@ -10,7 +10,7 @@ haeunkim0807@gmail.com
 > [Hanni's Resume](https://hanni66.notion.site/Hanni-s-Resume-b2121e9b0eab4ace8749178b2ad1f18c)
 
 Hi, i'm Haeun, a passionate self-taught iOS developer from Korea.
-- 🔭 i'm currently working on my project [<b>Weather-Alarm</b>](https://github.com/Weather-Alarm), [<b>MFD</b>](https://github.com/MFD-Magazine-For-Developers)
+- 🔭 i'm currently working on my project [<b>Weather-Alarm</b>](https://github.com/Weather-Alarm)
 - 🌱 i'm currently learning Flutter & Dart
 - 🕵️ i'm interested in Mobile
 
