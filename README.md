@@ -2,7 +2,7 @@
 
 ### Hi, i'm Hanni, I'm a self-taught ```Mobile developer``` who likes challenges.
 
-- 🔭 i'm currently working on my project [<b>Weather-Alarm</b>](https://github.com/Weather-Alarm), [<b>BeP</b>](https://github.com/GDSC-SKHU/Solution-Challenge-6-Mobile), [<b>My Pack</b>](https://github.com/My-Pack/MyPack-iOS)
+- 🔭 i'm currently working on my project [<b>BeP</b>](https://github.com/GDSC-SKHU/Solution-Challenge-6-Mobile)
 - 🌱 i'm currently learning iOS & Flutter
 - 🕵️ i'm interested in Mobile
 
