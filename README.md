@@ -10,10 +10,7 @@
 <br/>
 
 ### 📋 Portfolio
-[Hanni's Portfolio](https://seed-earthquake-e17.notion.site/Hanni-s-Portfolio-c29ae463a01043839cbf66eacfce97e6?pvs=4)
-
-### 📝 Blog
-[Hanni's Bolg](https://hanni66.github.io/)
+[Hanni's Portfolio](https://drive.google.com/file/d/1m-nHKUP-UVwkeGj5-4Hc-0uCMj-ombNv/view?usp=sharing)
 
 ### 💌 Contect
 haeunkim0807@gmail.com
